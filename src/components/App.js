@@ -106,6 +106,7 @@ const handleDeleting = async (card) => {
     setIsEditAvatarPopupOpen(true);
   };
   const handleEditProfileClick = () => {
+    fetchData();
     setIsEditProfilePopupOpen(true);
   };
   const handleAddPlaceClick = () => {
