@@ -14,3 +14,6 @@ HTML
 CSS
 React
 Webpack
+
+## Посмотреть проект
+[Место](https://zuevec.github.io/mesto-react/)
